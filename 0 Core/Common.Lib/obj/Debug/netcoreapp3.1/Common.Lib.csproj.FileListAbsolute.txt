@@ -1,0 +1,8 @@
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\bin\Debug\netcoreapp3.1\Common.Lib.deps.json
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\bin\Debug\netcoreapp3.1\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\bin\Debug\netcoreapp3.1\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\obj\Debug\netcoreapp3.1\Common.Lib.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\obj\Debug\netcoreapp3.1\Common.Lib.AssemblyInfoInputs.cache
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\obj\Debug\netcoreapp3.1\Common.Lib.AssemblyInfo.cs
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\obj\Debug\netcoreapp3.1\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib\obj\Debug\netcoreapp3.1\Common.Lib.pdb

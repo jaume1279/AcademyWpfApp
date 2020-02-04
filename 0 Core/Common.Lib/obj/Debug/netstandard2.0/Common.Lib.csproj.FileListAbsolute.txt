@@ -1,0 +1,60 @@
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\DependencyInjection\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\NetExamples\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+C:\TrainingOnline\CursoFullstack1\Common\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+C:\Dev\Training\trainingexample1_averagemarks\Ejemplos Patrones\0 Core\Core.Lib\obj\Debug\netstandard2.0\Common.Lib.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\FourthTry11January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\FifthTry14January2020\Academy\0 Core\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.pdb

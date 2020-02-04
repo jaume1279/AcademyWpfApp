@@ -1,0 +1,11 @@
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\bin\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.deps.json
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\bin\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\bin\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.pdb
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\bin\Debug\netcoreapp3.1\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\bin\Debug\netcoreapp3.1\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\obj\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\obj\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.AssemblyInfoInputs.cache
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\obj\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.AssemblyInfo.cs
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\obj\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.csproj.CopyComplete
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\obj\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.DAL.EFCore\obj\Debug\netcoreapp3.1\Common.Lib.DAL.EFCore.pdb

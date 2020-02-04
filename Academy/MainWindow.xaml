@@ -1,0 +1,33 @@
+﻿<Window x:Class="Academy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Academy"
+        xmlns:controls="clr-namespace:Academy.Views"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TabControl>
+            <TabItem Header="Students">
+                <controls:StudentsView></controls:StudentsView>
+            </TabItem>
+            <TabItem Header="Subjects">
+                <controls:SubjectsView></controls:SubjectsView>
+            </TabItem>
+            <TabItem Header="Students Subjects">
+                <controls:StudentSubjectView></controls:StudentSubjectView>
+            </TabItem>
+            <TabItem Header="Exams">
+                <controls:ExamsView></controls:ExamsView>
+            </TabItem>
+            <TabItem Header="Student Exams">
+                <controls:StudentExamView></controls:StudentExamView>
+            </TabItem>
+            <TabItem Header="Stats Student">
+                <controls:StatsStudentView></controls:StatsStudentView>
+            </TabItem>
+        </TabControl>
+
+    </Grid>
+</Window>

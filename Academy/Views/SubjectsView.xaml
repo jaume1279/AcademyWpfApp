@@ -1,0 +1,40 @@
+﻿<UserControl x:Class="Academy.Views.SubjectsView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Academy.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800"
+             >
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="150"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="40"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <TextBox Name="TxtNewName" Text="{Binding NewName, Mode=TwoWay}" HorizontalAlignment="Left" Margin="112,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="22" Width="200"/>
+            <TextBox Text="{Binding NewTeacher}" HorizontalAlignment="Left" Margin="112,0,0,0" TextWrapping="Wrap" VerticalAlignment="Center" Height="22" Width="200"/>
+
+            <Button Name="BtnUpdateSubject" IsEnabled="{Binding BtnUpdateSubjects}" Height="30" Content="Update Subject" Command="{Binding UpdateSubjectsCommand}" Margin="324,40,365,10"/>
+            <Button Height="30" Content="New Subject" Command="{Binding AddSubjectCommand}" Margin="324,110,365,10"/>
+            <Label Content="Name" HorizontalAlignment="Left" Height="22" Margin="10,37,0,0" VerticalAlignment="Top" Width="102" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,0"/>
+            <Label Content="Teacher" HorizontalAlignment="Left" Height="22" Margin="10,0,0,0" VerticalAlignment="Center" Width="102" HorizontalContentAlignment="Left" VerticalContentAlignment="Top" Padding="5,0,5,0"/>
+            <Border BorderThickness="1" BorderBrush="Black" HorizontalAlignment="Left" Height="146" Margin="10,4,0,0" VerticalAlignment="Top" Width="425"/>
+            <TextBox HorizontalAlignment="Left" Margin="440,0,0,0" Text="1.-) Press 'Read Subjects' to get subjects in the grid
+                     &#x0a;2.-) Delete: Select one subject in the grid and press button 'Delete Subject'
+                     &#x0a;3.-) New: Write in the boxes new subject data and press 'New Subject'
+                     &#x0a;4.-) Update: select the subject in the grid to update, write only new data in the boxes, and press button 'Update Subject'"
+                      TextWrapping="Wrap" VerticalAlignment="Center" Width="337" Height="128" />
+
+        </Grid>
+        <Grid Grid.Row="1">
+            <DataGrid x:Name="DatagridSubjects" ItemsSource="{Binding Subjects}" SelectedItem="{Binding SelectedItem}" Margin="5" AllowDrop="True" CanUserReorderColumns="False" SelectionMode="Single" SelectionUnit="FullRow" CanUserAddRows="false"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Button Width="120" Height="30" Content="Read Subjects" Command="{Binding GetSubjectsCommand}" HorizontalAlignment="Right" Margin="5"/>
+            <Button x:Name="DelButton" Width="120" Height="30" Content="Delete Subject" Command="{Binding DeleteSubjectsCommand}" HorizontalAlignment="Left" Margin="531,5,0,5"/>
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,11 @@
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\bin\Debug\netcoreapp3.1\Common.Lib.Client.deps.json
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\bin\Debug\netcoreapp3.1\Common.Lib.Client.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\bin\Debug\netcoreapp3.1\Common.Lib.Client.pdb
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\bin\Debug\netcoreapp3.1\Common.Lib.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\bin\Debug\netcoreapp3.1\Common.Lib.pdb
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\obj\Debug\netcoreapp3.1\Common.Lib.Client.csprojAssemblyReference.cache
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\obj\Debug\netcoreapp3.1\Common.Lib.Client.AssemblyInfoInputs.cache
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\obj\Debug\netcoreapp3.1\Common.Lib.Client.AssemblyInfo.cs
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\obj\Debug\netcoreapp3.1\Common.Lib.Client.csproj.CopyComplete
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\obj\Debug\netcoreapp3.1\Common.Lib.Client.dll
+D:\IT_Academy\C#\ExamDecember2019\WPFAcademy\0 Core\Common.Lib.Client\obj\Debug\netcoreapp3.1\Common.Lib.Client.pdb
